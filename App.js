@@ -1,7 +1,8 @@
 import logo from './logo.svg';
-import React from 'react';
+import React ,{Component} from 'react';
 import './App.css';
-import profile from './components/profile';
+import Profile from './components/Profile';
+
 
 function App() {
 
